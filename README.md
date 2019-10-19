@@ -34,6 +34,7 @@
   - Data Cleaning
   - Map data points to wards of Bengaluru
   - Model and setup Data Pipeline that could scrap, collate, clean and map all the data sources on a timely manner
+
   ### Design
   - Data Design
     - See how effectively various indicators can be packed for end users
